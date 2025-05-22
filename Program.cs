@@ -1,8 +1,9 @@
 ﻿//Lab 1 
 //Numerical Computations 
 
-int a = 18;
-int b = 6;
-int c = a / b;
-Console.WriteLine(c);
-//=3
+int a = 5;
+int b = 4;
+int c = 2;
+int d = a + b * c; 
+Console.WriteLine(d);
+// = 13 
