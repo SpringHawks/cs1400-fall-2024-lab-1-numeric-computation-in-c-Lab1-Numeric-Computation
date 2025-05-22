@@ -1,0 +1,15 @@
+C:\Users\14252\mySpringHawkscode\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation\bin\Debug\net9.0\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation.exe
+C:\Users\14252\mySpringHawkscode\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation\bin\Debug\net9.0\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation.deps.json
+C:\Users\14252\mySpringHawkscode\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation\bin\Debug\net9.0\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation.runtimeconfig.json
+C:\Users\14252\mySpringHawkscode\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation\bin\Debug\net9.0\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation.dll
+C:\Users\14252\mySpringHawkscode\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation\bin\Debug\net9.0\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation.pdb
+C:\Users\14252\mySpringHawkscode\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation\obj\Debug\net9.0\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14252\mySpringHawkscode\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation\obj\Debug\net9.0\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation.AssemblyInfoInputs.cache
+C:\Users\14252\mySpringHawkscode\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation\obj\Debug\net9.0\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation.AssemblyInfo.cs
+C:\Users\14252\mySpringHawkscode\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation\obj\Debug\net9.0\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation.csproj.CoreCompileInputs.cache
+C:\Users\14252\mySpringHawkscode\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation\obj\Debug\net9.0\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation.sourcelink.json
+C:\Users\14252\mySpringHawkscode\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation\obj\Debug\net9.0\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation.dll
+C:\Users\14252\mySpringHawkscode\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation\obj\Debug\net9.0\refint\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation.dll
+C:\Users\14252\mySpringHawkscode\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation\obj\Debug\net9.0\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation.pdb
+C:\Users\14252\mySpringHawkscode\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation\obj\Debug\net9.0\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation.genruntimeconfig.cache
+C:\Users\14252\mySpringHawkscode\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation\obj\Debug\net9.0\ref\cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation.dll

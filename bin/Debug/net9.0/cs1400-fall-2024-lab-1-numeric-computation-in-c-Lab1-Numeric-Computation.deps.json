@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation/1.0.0": {
+        "runtime": {
+          "cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cs1400-fall-2024-lab-1-numeric-computation-in-c-Lab1-Numeric-Computation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
