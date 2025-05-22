@@ -1,13 +1,16 @@
 ﻿//Lab 1 
 //Numerical Computations 
 
+// Pie Code
 
-double a = 1.0;
-double b = 3.0;
-Console.WriteLine(a / b);
-//0.3333333333333333
-decimal c = 1.0M;
-decimal d = 3.0M;
-Console.WriteLine(c / d);
+double radius = 2.50;
+double area = Math.PI * radius * radius;
 
-//0.3333333333333333333333333333
+Console.WriteLine(area);
+
+//Write code that calculates the area of a circle whose radius is 2.50 centimeters.
+//Remember that the area of a circle is the radius squared multiplied by PI. 
+//One hint: .NET contains a constant for PI, Math.PI that you can use for that value. 
+//Math.PI, like all constants declared in the System.Math namespace, is a double value.
+//For that reason, you should use double instead of decimal values for this challenge.
+// = 19.634954084936208
