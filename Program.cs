@@ -2,9 +2,9 @@
 //Numerical Computations 
 
 
-double a = 5;
-double b = 4;
-double c = 2;
+double a = 19;
+double b = 23;
+double c = 8;
 double d = (a + b) / c;
 Console.WriteLine(d);
-//4.5
+// = 5.25
