@@ -1,8 +1,7 @@
 ﻿//Lab 1 
 //Numerical Computations 
 
-double max = double.MaxValue;
-double min = double.MinValue;
-Console.WriteLine($"The range of double is {min} to {max}");
+double third = 1.0 / 3.0;
+Console.WriteLine(third);
 
-//The range of double is -1.7976931348623157E+308 to 1.7976931348623157E+308
+//  0.3333333333333333
